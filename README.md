@@ -20,13 +20,6 @@ Hi, can I help you?!
 - Zero crashes — battle-tested
 - Beautiful **colored CLI interface**
 
----
-
-## Screenshot
-![Demo](https://raw.githubusercontent.com/SeniorAlfred/omega-layer9/main/demo.gif)
-
----
-
 ## Installation
 
 ```bash
