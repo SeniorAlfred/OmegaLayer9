@@ -1,4 +1,3 @@
-Hi, can I help you?!
 
 # OMEGA LAYER-9 ULTIMATE  
 ### **9 Concurrent Attack Vectors — SeniorAlfred Edition**
