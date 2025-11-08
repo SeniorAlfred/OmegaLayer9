@@ -93,7 +93,5 @@ See [`LICENSE`](LICENSE) file.
 
 ---
 
-⭐ **Star this repo if you respect the craft!**  
-🔥 **Fork & enhance — PRs welcome!**
-
----
+## --------------------- Hacker --------------------- ##
+×× This script needs to be upgraded! Dear Hacker. ××
