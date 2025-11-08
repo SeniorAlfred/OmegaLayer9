@@ -6,7 +6,8 @@
 9-Layer Stress Test — 3 Lines to Launch
 
 ```
-git clone https://github.com/yourname/omega-layer9.git
+git clone https://github.com/
+SeniorAlfred/omega-layer9.git
 cd omega-layer9 && pip install aiohttp colorama
 python omega.py
 ```
