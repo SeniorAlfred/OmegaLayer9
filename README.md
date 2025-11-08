@@ -89,13 +89,6 @@ Time   → 300 (seconds)
 2. Title: `[FEATURE] Your Idea`  
 3. Describe clearly + expected behavior
 
-## Found a Bug?
-1. Go to **[Issues](https://github.com/SeniorAlfred/omega-layer9/issues)**  
-2. Title: `[BUG] Short description`  
-3. Include: OS, Python version, error log
-
----
-
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=SeniorAlfred/omega-layer9&type=Date)](https://star-history.com/#SeniorAlfred/omega-layer9)
 
