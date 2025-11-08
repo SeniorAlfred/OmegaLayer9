@@ -74,20 +74,6 @@ Time   → 300 (seconds)
 > You are **100% responsible** for how you use it.  
 > Do **NOT** attack systems without explicit permission.
 
----
-
-## How to Request Features
-1. Open an **[Issue](https://github.com/SeniorAlfred/omega-layer9/issues)**  
-2. Title: `[FEATURE] Your Idea`  
-3. Describe clearly + expected behavior
-
-## Found a Bug?
-1. Go to **[Issues](https://github.com/SeniorAlfred/omega-layer9/issues)**  
-2. Title: `[BUG] Short description`  
-3. Include: OS, Python version, error log
-
----
-
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=SeniorAlfred/omega-layer9&type=Date)](https://star-history.com/#SeniorAlfred/omega-layer9)
 
