@@ -1,7 +1,5 @@
 Hi, can I help you?!
 
-<img src="https://raw.githubusercontent.com/SeniorAlfred/omega-layer9/main/banner.png" alt="OMEGA LAYER-9" width="100%"/>
-
 # OMEGA LAYER-9 ULTIMATE  
 ### **9 Concurrent Attack Vectors — SeniorAlfred Edition**
 
